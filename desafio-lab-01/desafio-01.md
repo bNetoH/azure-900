@@ -8,11 +8,11 @@ Serviço de aplicativos - Linux-AppService (F1: 1)
 Runtime .net8 LTS
 ```
 
-![webapp-create](img/webapp-create.png "webapp-create.png")
+![webapp-create](./img/webapp-create.png "webapp-create.png")
 
-![webapp-ready](img/webapp-ready.png "webapp-ready.png")
+![webapp-ready](./img/webapp-ready.png "webapp-ready.png")
 
-![webapp-done](img/webapp-done.png "webapp-done.png")
+![webapp-done](./img/webapp-done.png "webapp-done.png")
 
 visitar perfil: <a href="https://learn.microsoft.com/pt-br/users/homeroneto-0941" target="_blank">learn.microsoft.com</a>
 
